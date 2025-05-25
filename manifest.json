@@ -1,0 +1,8 @@
+{
+  "domain": "knitting_calculations",
+  "name": "Knitting Calculations",
+  "version": "1.0.0",
+  "codeowners": ["@ByteWoven"],
+  "config_flow": false,
+  "requirements": []
+}
